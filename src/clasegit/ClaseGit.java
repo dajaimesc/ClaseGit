@@ -19,6 +19,11 @@ public class ClaseGit {
         System.out.println("Ejemplo de control de versiones con git");
         
         // Cooperemos
+        
+        int edad = 23;
+        edad++;
+        System.out.println("edad = " + edad);
+        
     }
     
 }
