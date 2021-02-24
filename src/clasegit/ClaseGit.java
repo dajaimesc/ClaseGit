@@ -24,6 +24,8 @@ public class ClaseGit {
         edad++;
         System.out.println("edad = " + edad);
         
+        int ANDRE = 0;
+        
     }
     
 }
